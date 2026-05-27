@@ -61,10 +61,22 @@ bash Run_4appx_nhop.sh
   * `src/args.py`: Defines hyperparameters.
   * `src/utils.py`, `src/sampler.py`, `src/replay_buffer.py`: Helper functions
 
+## Citation
 
+If you find this work useful in your research, please cite our paper:
 
-
-
+```bibtex
+@article{
+mitsuhashi2026decoupling,
+title={Decoupling Planning from Control: Stable Hierarchical {RL} with a Learned Metric Space},
+author={Sho Mitsuhashi and Shin Ishii},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=Kmtlv8X0BN},
+note={}
+}
+```
 
 
 
